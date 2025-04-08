@@ -1,18 +1,18 @@
-**### The Scholastic Command Center: A React School Dashboard**
+### The Scholastic Command Center: A React School Dashboard
 
 Greetings, academic trailblazer! Welcome to a repository where education meets elegance, and React orchestrates a symphony of dashboards and course views. 
 This project is your one-stop cockpit for navigating the wilds of school life—think of it as the bridge of the Starship Academia, minus the warp drive (for now).
 With a sleek sidebar, a commanding header, and views that toggle like a well-oiled lesson plan, 
 this dashboard is here to make principals proud and students mildly jealous. Let’s get schooled in style!
 
-**## What’s This Dashboard All About?**
+## What’s This Dashboard All About?
 
 This React app is a modular masterpiece designed to manage school-related chaos.
 It features a sidebar for navigation, a header for gravitas, and interchangeable views—starting with a snazzy dashboard and a courses overview.
 The code above is the beating heart of the app, stitching components together with the finesse of a valedictorian’s speech. 
 It’s extensible, it’s elegant, and it’s ready to grow faster than a freshman on a cafeteria pizza binge.
 
-**## The Class Roster**
+## The Class Roster
 
 Sidebar: Your trusty guide, steering you between views like a hall monitor with swagger.
 Header: The top dog, keeping things official and omnipresent.
